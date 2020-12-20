@@ -9,11 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidFundamentals">
-        <activity android:name=".week3.ScrollActivity"><intent-filter>
+        <activity android:name=".week4.ConstraintActivity">
+            <intent-filter>
             <action android:name="android.intent.action.MAIN" />
 
             <category android:name="android.intent.category.LAUNCHER" />
-        </intent-filter></activity>
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>

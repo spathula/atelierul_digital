@@ -1,4 +1,28 @@
 <resources>
     <string name="app_name">AndroidFundamentals</string>
-    <string name="very_long_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non risus eget enim imperdiet efficitur sit amet ac tellus. Nulla luctus sed ligula sit amet rutrum. Cras rhoncus tempor justo vitae cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi lobortis, sapien vel scelerisque vestibulum, lacus elit ornare metus, nec malesuada lacus arcu ut purus. Vestibulum vestibulum libero eu lectus ultricies interdum. Pellentesque eget massa sit amet ipsum sagittis iaculis. Donec ac nibh non metus ultrices dignissim vel et neque. Nunc sed ipsum sem. Morbi augue nulla, auctor nec odio et, commodo sodales ipsum. Quisque erat risus, efficitur scelerisque elementum porta, convallis vel lacus. Praesent vel commodo lorem. Vestibulum in egestas diam, in condimentum justo.  Nunc semper, mi eu viverra imperdiet, nulla dolor scelerisque erat, ut mattis leo neque nec risus. Phasellus dictum, justo tempor laoreet sodales, lacus sem aliquam purus, vitae luctus eros nulla id odio. Duis sit amet accumsan tellus. Quisque facilisis consequat nulla in faucibus. Aliquam sit amet ipsum sapien. Nunc non felis dignissim, hendrerit justo vestibulum, scelerisque nibh. Mauris sed libero eros. Phasellus in nisl ut tellus pretium rutrum. Curabitur ac sollicitudin neque. Duis ante arcu, pharetra vel risus ac, malesuada molestie ex. In in libero convallis, scelerisque nunc ac, pharetra libero. Donec suscipit arcu velit, a malesuada urna malesuada at.  Nam orci neque, semper vitae justo et, finibus interdum diam. Aenean a nibh nunc. Vestibulum justo nisi, mattis in vehicula quis, feugiat ac nunc. Aenean sed lacus velit. Fusce sagittis risus vitae magna tempus maximus. Ut id feugiat lacus. Fusce diam velit, placerat a rutrum quis, imperdiet et nibh. Integer sed aliquet massa, a luctus leo. Pellentesque venenatis, dolor nec imperdiet hendrerit, neque purus sagittis diam, vitae laoreet tortor risus eget libero. Phasellus viverra ante et dolor mattis facilisis. Duis aliquet congue quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque eleifend porta elit ac eleifend.  Cras semper elit finibus quam faucibus sollicitudin. Praesent fringilla quam nec risus consectetur, fermentum molestie sapien varius. Mauris auctor velit at porttitor pulvinar. Donec varius id felis accumsan mattis. Etiam mauris odio, maximus in sagittis ac, venenatis at nunc. Praesent tempor, augue id mattis tempus, sem nunc pharetra metus, id hendrerit orci lacus facilisis sem. Proin in faucibus risus, sodales maximus enim. Cras leo tortor, feugiat suscipit scelerisque at, volutpat quis turpis.</string>
+    <string name="very_long_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non risus eget enim imperdiet efficitur sit amet ac tellus. Nulla luctus sed ligula sit amet rutrum.
+
+        Cras rhoncus tempor justo vitae cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi lobortis, sapien vel scelerisque vestibulum, lacus elit ornare metus, nec malesuada lacus arcu ut purus.
+
+        Vestibulum vestibulum libero eu lectus ultricies interdum. Pellentesque eget massa sit amet ipsum sagittis iaculis. Donec ac nibh non metus ultrices dignissim vel et neque.
+
+        Nunc sed ipsum sem. Morbi augue nulla, auctor nec odio et, commodo sodales ipsum. Quisque erat risus, efficitur scelerisque elementum porta, convallis vel lacus. Praesent vel commodo lorem.
+
+        Vestibulum in egestas diam, in condimentum justo.  Nunc semper, mi eu viverra imperdiet, nulla dolor scelerisque erat, ut mattis leo neque nec risus. Phasellus dictum, justo tempor laoreet sodales,
+
+        lacus sem aliquam purus, vitae luctus eros nulla id odio. Duis sit amet accumsan tellus. Quisque facilisis consequat nulla in faucibus. Aliquam sit amet ipsum sapien. Nunc non felis dignissim,
+
+        hendrerit justo vestibulum, scelerisque nibh. Mauris sed libero eros. Phasellus in nisl ut tellus pretium rutrum. Curabitur ac sollicitudin neque. Duis ante arcu, pharetra vel risus ac, malesuada molestie ex.
+
+        In in libero convallis, scelerisque nunc ac, pharetra libero. Donec suscipit arcu velit, a malesuada urna malesuada at.  Nam orci neque, semper vitae justo et, finibus interdum diam. Aenean a nibh nunc.
+
+        Vestibulum justo nisi, mattis in vehicula quis, feugiat ac nunc. Aenean sed lacus velit. Fusce sagittis risus vitae magna tempus maximus. Ut id feugiat lacus. Fusce diam velit, placerat a rutrum quis,
+
+        imperdiet et nibh. Integer sed aliquet massa, a luctus leo.</string>
+    <string name="header_image_string">Header Image</string>
+    <string name="happy_holidays_string">Happy Holidays</string>
+    <string name="from_paul_string">From Paul</string>
+    <string name="img_star">Star</string>
+    <string name="merryChristmas_string">Have yourself a merry little Christmas,\nLet your heat be light\nFrom now on, our troubles will be out of sight</string>
+    <string name="img_poster">Poster</string>
 </resources>
