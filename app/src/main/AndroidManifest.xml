@@ -9,11 +9,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidFundamentals">
-        <activity android:name=".week4.ConstraintActivity">
+        <activity android:name=".week8.NetworkActivity"/>
+        <activity android:name=".week7.BatteryActivity" />
+        <activity android:name=".week7.CardViewActivity" />
+        <activity android:name=".week6.NavigationDrawerActivity" />
+        <activity android:name=".week6.HelloFragmentActivity" />
+        <activity android:name=".week6.HelloFragmentDynamicActivity" />
+        <activity android:name=".week5.ImplicitActivity" />
+        <activity android:name=".week5.ChatTwoActivity" />
+        <activity android:name=".week5.ChatOneActivity" />
+        <activity android:name=".week5.ThreeButtonsActivity" />
+        <activity android:name=".week5.SecondActivity" />
+        <activity android:name=".SplashScreen">
             <intent-filter>
-            <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.MAIN" />
 
-            <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
     </application>

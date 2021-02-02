@@ -54,7 +54,8 @@ public class RecyclerActivity extends AppCompatActivity {
     }
 
     private class StudentViewHolder extends RecyclerView.ViewHolder {
-        private TextView firstName, lastName;
+        private final TextView firstName;
+        private final TextView lastName;
 
         public StudentViewHolder(@NonNull View itemView) {
             super(itemView);
@@ -80,7 +81,7 @@ public class RecyclerActivity extends AppCompatActivity {
     private class StudentAdapter extends RecyclerView.Adapter<StudentViewHolder> {
 
         @NonNull
-        private List<Student> studentList;
+        private final List<Student> studentList;
 
         StudentAdapter(@NonNull List<Student> studentList) {
             this.studentList = studentList;

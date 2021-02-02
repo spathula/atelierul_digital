@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".week7.BatteryActivity">
+
+    <ImageView
+        android:id="@+id/battery_image"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/battery_level"
+        tools:ignore="ContentDescription" />
+
+    <Button
+        android:id="@+id/minus_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onBatteryChangeMinus"
+        android:text="@string/minus_sign"
+        style="@style/ButtonBattery"
+        app:layout_constraintEnd_toStartOf="@id/battery_image"
+        app:layout_constraintTop_toBottomOf="@id/battery_image" />
+
+    <Button
+        android:id="@+id/plus_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onBatteryChangePlus"
+        android:text="@string/plus_sign"
+        style="@style/ButtonBattery"
+        app:layout_constraintStart_toEndOf="@id/battery_image"
+        app:layout_constraintTop_toBottomOf="@id/battery_image" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

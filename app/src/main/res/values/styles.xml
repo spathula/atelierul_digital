@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CardViewTitle">
+        <item name="android:textSize">18sp</item>
+    </style>
+    
+    <style name="CardViewSubtitle">
+        <item name="android:textSize">32sp</item>
+        <item name="android:layout_margin">8dp</item>
+    </style>
+
+    <style name="ButtonBattery" parent="@style/Widget.AppCompat.Button.Colored">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_margin">12dp</item>
+    </style>
+</resources>
